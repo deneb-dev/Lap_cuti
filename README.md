@@ -1,7 +1,7 @@
 # Lap_cuti
 Apps Laporan Cuti Karyawan
 
-TUGAS 2
+TUGAS 1
 
 Tugas perograman sederhana Implementasi OOP Dan Programming Fundamental
 
