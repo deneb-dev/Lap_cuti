@@ -19,7 +19,7 @@ namespace Lap_cuti
                 int pilih;
                 Console.WriteLine("\n\tAplikasi Laporan Cuti Kayawan");
                 Console.WriteLine("=======================================");
-                Console.WriteLine("\t1. Tambah Data Cuti\n\t2. Cetak Data Cuti\n=======================================");
+                Console.WriteLine("\t1. Tambah Data Cuti\n\t2. Cetak Data Cuti\n\t3. Keluar\n=======================================");
                 Console.Write("Pilih : ");
 
                 pilih = int.Parse(Console.ReadLine());
@@ -35,9 +35,10 @@ namespace Lap_cuti
                             karyawan.showKaryawan();
                             break;
                         }
-                    default:
+  
+                    default :
                         {
-                            Console.WriteLine("Terima kasih");
+                            Console.WriteLine("Terima Kasih Selamat Berlibur :)");
                             break;
                         }
                 }
