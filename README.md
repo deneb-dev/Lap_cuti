@@ -1,7 +1,8 @@
-# Lap_cuti
+# NETSIBKM
+Tugas - Perkantoran
 Apps Laporan Cuti Karyawan
 
-TUGAS 1
+TUGAS 2
 
 Tugas perograman sederhana Implementasi OOP Dan Programming Fundamental
 
